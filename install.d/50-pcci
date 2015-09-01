@@ -6,3 +6,4 @@ set -eux
 yum install -y rubygems
 yum install -y ruby
 yum install -y augeas
+yum install -y ruby-augeas
